@@ -1,2 +1,2 @@
-# vector_game
+# vectox_game
 Vectox game
